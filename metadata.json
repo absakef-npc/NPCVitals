@@ -1,0 +1,6 @@
+{
+  "name": "NPCVitalEvents",
+  "description": "NPC Vital Registration System for births, deaths, and marriages in Nigeria, supporting offline-first operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
